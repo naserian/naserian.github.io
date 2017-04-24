@@ -1,0 +1,19 @@
+h1{
+  color: #FFC0CB;
+  font-size: 25;
+  font-style: italic;
+}
+h2{
+  font-style: italic;
+}
+.important{
+  font-size: 18;
+  font-weight: normal;
+}
+img{
+  float: left;
+  width: 25%;
+}
+body{
+  background-image: url(http://graphicdesignjunction.com/wp-content/uploads/2014/05/001+background+pattern+designs.jpg);
+}
